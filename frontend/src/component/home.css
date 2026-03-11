@@ -1,0 +1,28 @@
+.home-page{
+    height:100vh;
+    width:100%;
+    background-color: rgb(254, 253, 253);
+    
+     
+}  
+.user{
+    height:30vh;
+    width:100%;
+  
+    color: rgb(0, 0, 0);
+     display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.bt{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.prod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+  
